@@ -1,3 +1,5 @@
+# Azylem's Dero node guide, using Netrunner and low cost hardware
+
 # Step 1
 **Linux Mint fresh install config with 500GB SSD**
 1. Requires:
