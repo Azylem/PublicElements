@@ -33,9 +33,13 @@
 4. `sudo mv go /usr/local`
 5. `sudo nano /etc/profile`
 6. Scroll to the bottom of Nano and add these lines to the bottom:
+
 	`export GOROOT=/usr/local/go`
+
 	`export GOPATH=$HOME/`
+
 	`export PATH=$GOPATH/bin:$GOROOT/bin:$PATH`
+
 7. Press CTRL+O to save, then press Enter/Return key to confirm, then press CTRL+X to exit Nano
 8. `sudo apt install git`
 9. `sudo apt-get update && sudo apt-get upgrade`
