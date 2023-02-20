@@ -5,7 +5,7 @@
 	* Already configured Linux Mint boot USB stick with Etcher.
 	[Further information](https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html)
 
-	* Node machine with 1x 500GB SSD installed
+	* Node machine with 1x 500GB SSD, minimum 8GB Ram, 4c/8t CPU (i7 4770/4790)
 	
 2. Boot into preconfigured USB stick
 3. On live booted Linux Mint desktop, launch "Install Linux Mint"
