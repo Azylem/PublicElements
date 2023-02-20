@@ -15,10 +15,14 @@
 5. In "Installation Type" panel, select "Something else"
 ![screenshot](SomethingElse.png)
 6. Wipe the entire SSD (delete all partitions with the "-" button) 	Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/installer-partitions.png`
-7. Create 3 new partitions
+7. Create 3 new partitions:
+
 	A. 1x EFI partition (1000 MB)
+
 	B. 1x ext4 partition (30000 MB), mount point "/"
+
 	C. 1x xfs partition (maximum remaining space), at mount point "/home"
+
 8. Carry on with remaining installation steps, as desired, following the displayed instructions, then boot into the new OS with USB stick removed
 
 # Step 2
