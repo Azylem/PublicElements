@@ -9,7 +9,8 @@
 	B. Node machine with 1x 500GB SSD installed
 	
 2. Boot into preconfigured USB stick
-3. On live booted Linux Mint desktop, launch "Install Linux Mint" 	Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/cinnamon.png`
+3. On live booted Linux Mint desktop, launch "Install Linux Mint"
+![screenshot](InstallLinuxMint.png)
 4. Select "install multimedia codecs" 						Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/installer-codecs.png`
 5. In "Installation Type" panel, select "Something else" 			Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/installer-install.png`
 6. Wipe the entire SSD (delete all partitions with the "-" button) 	Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/installer-partitions.png`
