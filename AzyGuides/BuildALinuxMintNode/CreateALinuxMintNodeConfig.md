@@ -24,9 +24,9 @@
 
 	* 1x EFI partition (1000 MB)
 
-	* 1x ext4 partition (30000 MB), mount point "/"
+	* 1x ext4 partition (30000 MB), mount point "/", select "primary"
 
-	* 1x xfs partition (maximum remaining space), at mount point "/home"
+	* 1x xfs partition (maximum remaining space), at mount point "/home", select "logical"
 
 8. Carry on with remaining installation steps, as desired, following the displayed instructions, then boot into the new OS with USB stick removed
 
