@@ -43,7 +43,7 @@
 3. `cd Netrunner`
 4. `go mod tidy`
 5. `go build .`
-6. `./netrunner` to launch Netrunner!
+6. `./netrunner` or `./Netrunner` (depending on how the file is named) to launch Netrunner!
 
 **Bookmark these URLs in Firefox, for additional information**
 https://forum.dero.io/t/dero-node-setup/1774
