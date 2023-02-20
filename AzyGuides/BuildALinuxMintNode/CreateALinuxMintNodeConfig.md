@@ -46,8 +46,7 @@
 6. `./netrunner` to launch Netrunner!
 
 <h2>Bookmark these URLs in Firefox, for additional information</h2>
+
 https://forum.dero.io/t/dero-node-setup/1774
-
 https://github.com/deroproject/derohe/releases/
-
 https://github.com/DEROFDN/netrunner
