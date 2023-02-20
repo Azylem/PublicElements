@@ -32,7 +32,7 @@
 11. `sudo apt install xfsprogs ntpdate`
 12. `sudo apt install chrony`
 13. `chronyc tracking`
-14. `sudo echo "net.core.rmem_default=2097152" >> /etc/sysctl.conf; sysctl -p`
+14. `sudo echo "net.core.rmem_default=2097152" >> /etc/sysctl.conf; sudo sysctl -p`
 15. `echo "ulimit -n 48000" >> ~/.bashrc ; echo "ulimit -n 48000" >> ~/.bash_profile ; ulimit -n 48000 ; source ~/.bashrc`
 16. Restart the machine
 
