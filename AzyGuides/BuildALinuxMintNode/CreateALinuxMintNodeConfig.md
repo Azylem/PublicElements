@@ -10,7 +10,7 @@
 		* HP Z230 SFF
 		* HP EliteDesk SFF
 
-	NOTE: for best performance, newer 8c/16t (Ryzen) CPUs are suggested and use [this guide](https://forum.dero.io/t/dero-node-setup/1774) instead, but for the sake of low cost and easy (but still secure and effective setup), these examples and these steps (while a bit rough) have worked for me on multiple machines, for now.
+	NOTE: for best performance, newer 8c/16t (Ryzen) CPUs are suggested and use [this guide](https://forum.dero.io/t/dero-node-setup/1774) instead, but for the sake of low cost and easy (but still secure and effective setup), these examples and steps (while a bit rough) have worked for me on multiple machines, for now.
 
 2. Boot into preconfigured USB stick
 3. On live booted Linux Mint desktop, launch "Install Linux Mint"
