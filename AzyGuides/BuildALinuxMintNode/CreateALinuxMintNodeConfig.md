@@ -8,6 +8,7 @@
 	* Example low cost node hardware for around $200 on eBay (any box configured with 1x 500GB SSD, 8GB Ram, 4c/8t CPU: i7 4770 or i7 4790)
 		* HP Z230 SFF
 		* HP EliteDesk SFF
+
 	(NOTE: for best performance, more modern 8c/16t (Ryzen) CPUs are suggested, but for the sake of low cost and easy setup, these examples work fine.)
 
 2. Boot into preconfigured USB stick
