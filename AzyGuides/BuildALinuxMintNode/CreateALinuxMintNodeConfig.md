@@ -8,7 +8,9 @@
 	* Node machine with 1x 500GB SSD, minimum 8GB Ram, 4c/8t CPU (i7 4770/4790)
 
 	Example machines, can be found on eBay for ~$200:
-		* HP Z230 SFF [Example machine #1](https://support.hp.com/us-en/document/c03943712](https://www.userbenchmark.com/System/HP-Z230-SFF-Workstation/1077)
+
+		* HP Z230 SFF [Example machine #1](https://support.hp.com/us-en/document/c03943712)
+		
 		* HP EliteDesk SFF [Example machine #2](https://support.hp.com/us-en/document/c03943712)
 	
 	
