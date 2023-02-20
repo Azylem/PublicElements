@@ -1,7 +1,6 @@
-# Azylem's easy Dero node guide, using Netrunner, Linux Mint and low cost hardware
+# Azylem's easy Dero node guide, using Netrunner, Linux Mint and low cost hardware with a 500GB SSD
 
 # Step 1
-**Linux Mint fresh install config with 500GB SSD**
 1. Requires:
 
 	* Already configured Linux Mint boot USB stick with Etcher.
