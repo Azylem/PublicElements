@@ -67,8 +67,8 @@
 7. Use "fast" mode for low data use and fast bootstrap (~1 hour sync time). OR, use "full" mode for full node (multiple days sync time)
 
 # Bookmark these URLs in Firefox, for additional information
-https://forum.dero.io/t/dero-node-setup/1774
+https://forum.dero.io/t/dero-node-setup/1774 (More advanced node config guide)
 
-https://github.com/deroproject/derohe/releases/
+https://github.com/deroproject/derohe/releases/ (For all core Dero Project tools)
 
-https://github.com/DEROFDN/netrunner
+https://github.com/DEROFDN/netrunner (For following development of the Netrunner GUI)
