@@ -7,7 +7,7 @@
 3. On live booted Linux Mint desktop, launch "Install Linux Mint" 	Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/cinnamon.png`
 4. Select "install third-party software" 						Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/installer-codecs.png`
 5. In "Installation Type" panel, select "Something else" 			Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/installer-install.png`
-6. Wipe the entire SSD (delete all partitions with the "-" button) 	Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/installer-partitions.png`
+6. Wipe the entire SSD (delete all partitions with the "-" button)
 7. Create 3 new partitions
 	A. 1x EFI partition (1000 MB)
 	B. 1x ext4 partition (30000 MB), mount point "/"
