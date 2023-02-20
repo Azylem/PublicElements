@@ -2,7 +2,9 @@
 **Linux Mint fresh install config with 500GB SSD**
 1. Requires:
 
-	A. Already configured Linux Mint boot USB stick with Etcher. 	Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html`
+	A. Already configured Linux Mint boot USB stick with Etcher.
+	
+	Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html`
 
 	B. Node machine with 1x 500GB SSD installed
 	
