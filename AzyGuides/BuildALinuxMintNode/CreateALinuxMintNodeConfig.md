@@ -9,7 +9,7 @@
 		* HP Z230 SFF
 		* HP EliteDesk SFF
 
-	(NOTE: for best performance, more modern 8c/16t (Ryzen) CPUs are suggested, but for the sake of low cost and easy setup, these examples work fine.)
+	(NOTE: for best performance, more modern 8c/16t (Ryzen) CPUs are suggested, but for the sake of low cost and easy setup, these examples work for now)
 
 2. Boot into preconfigured USB stick
 3. On live booted Linux Mint desktop, launch "Install Linux Mint"
