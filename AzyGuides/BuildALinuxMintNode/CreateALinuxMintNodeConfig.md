@@ -5,7 +5,7 @@
 	* Already configured Linux Mint boot USB stick with Etcher.
 	[Further information](https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html)
 
-	* Example node hardware (any box configured with 1x 500GB SSD, 8GB Ram, 4c/8t CPU: i7 4770 or i7 4790)
+	* Example node hardware for around $200 on eBay (any box configured with 1x 500GB SSD, 8GB Ram, 4c/8t CPU: i7 4770 or i7 4790)
 		* [HP Z230 SFF](https://support.hp.com/us-en/document/c03943712)
 		* [HP EliteDesk SFF](https://support.hp.com/us-en/document/c03943712)
 
