@@ -61,7 +61,8 @@
 3. `cd Netrunner`
 4. `go mod tidy`
 5. `go build .`
-6. `./netrunner` to launch Netrunner! Use "fast" mode for low data use and fast bootstrap (~1 hour sync time). Use "full" mode for full node (multiple days sync time)
+6. `./netrunner` to launch Netrunner! 
+7. Use "fast" mode for low data use and fast bootstrap (~1 hour sync time). OR, use "full" mode for full node (multiple days sync time)
 
 # Bookmark these URLs in Firefox, for additional information
 https://forum.dero.io/t/dero-node-setup/1774
