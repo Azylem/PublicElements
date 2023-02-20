@@ -1,4 +1,4 @@
-<h1>Step 1</h1>
+# Step 1
 **Linux Mint fresh install config with 500GB SSD**
 1. Requires:
 	A. Already configured Linux Mint boot USB stick with Etcher. 	Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html`
@@ -14,7 +14,7 @@
 	C. 1x xfs partition (maximum remaining space), at mount point "/home"
 8. Carry on with remaining installation steps, as desired, following the displayed instructions, then boot into the new OS with USB stick removed
 
-<h1>Step 2</h1>
+# Step 2
 **Setup required machine config basics**
 1. Right click on desktop, select "Open in Terminal" then enter the below commands in order
 2. `wget https://golang.google.cn/dl/go1.19.4.linux-amd64.tar.gz`
@@ -36,7 +36,7 @@
 15. `echo "ulimit -n 48000" >> ~/.bashrc ; echo "ulimit -n 48000" >> ~/.bash_profile ; ulimit -n 48000 ; source ~/.bashrc`
 16. Restart the machine
 
-<h1>Step 3</h1>
+# Step 3
 **Build Netrunner from source**
 1. Create new folder on desktop called "Dero", open this folder then right click inside it and select "Open in Terminal", enter below commands in order.
 2. `git clone https://github.com/DEROFDN/Netrunner`
@@ -45,7 +45,7 @@
 5. `go build .`
 6. `./netrunner` to launch Netrunner!
 
-<h2>Bookmark these URLs in Firefox, for additional information</h2>
+# Bookmark these URLs in Firefox, for additional information
 
 https://forum.dero.io/t/dero-node-setup/1774
 https://github.com/deroproject/derohe/releases/
