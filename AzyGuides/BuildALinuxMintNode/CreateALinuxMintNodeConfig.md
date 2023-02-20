@@ -14,8 +14,8 @@
 ![screenshot](InstallThird-party-software.png)
 5. In "Installation Type" panel, select "Something else"
 ![screenshot](SomethingElse.png)
-6. Wipe the entire SSD (delete all partitions with the "-" button) 	Screenshot: `https://linuxmint-installation-guide.readthedocs.io/en/latest/_images/installer-partitions.png`
-7. Create 3 new partitions:
+6. Wipe the entire SSD (delete all partitions with the "-" button)
+7. Create 3 new partitions (1 at a time with the "+" button):
 
 	* 1x EFI partition (1000 MB)
 
