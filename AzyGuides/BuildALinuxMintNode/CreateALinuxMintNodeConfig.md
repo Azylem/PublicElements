@@ -71,7 +71,7 @@ These are what I set up in people's houses :), so they can access Dero easily an
 3. `cd Netrunner`
 4. `go mod tidy`
 5. `go build .`
-6. Once built, a binary named "Netrunner" or "netrunner" will appear in the Netrunner folder. Copy this binary, then paste it to any directory you want to store your node data in (Example: in a new folder called "Dero" on desktop).
+6. Once built, a binary named "Netrunner" or "netrunner" will appear in the Netrunner folder. Copy this binary, then paste it to any directory you want to store your node data in (Example: 1 step back into the folder called "Dero" on desktop).
 
 ![screenshot](NetrunnerIcon.png)
 
