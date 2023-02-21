@@ -82,6 +82,8 @@ These are what I set up in people's houses :), so they can access Dero easily an
 
 ![screenshot](NetrunnerScreenshot.png)
 
+NOTE: Use port 10100 for pointing miners at it.
+
 # Step 4 (optional)
 **Headless operation (no monitor/mouse/keyboard)**
 1. Plug in your Displayport dummy plug into a socket, at the back of machine
