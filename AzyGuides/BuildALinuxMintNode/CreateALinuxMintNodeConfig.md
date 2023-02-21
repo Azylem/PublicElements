@@ -11,7 +11,7 @@
 		* HP EliteDesk SFF
 	* OPTIONAL: Virtual Display Adapter, Displayport Dummy Plug (for headless operation with VNC or other SSH)
 
-	NOTE: for best performance, newer 8c/16t (Ryzen) CPUs are suggested and use [this guide](https://forum.dero.io/t/dero-node-setup/1774) instead, but for the sake of low cost and easy (but still secure and effective setup), these examples and steps (while a bit rough) have worked for me on multiple machines, for now.
+	NOTE: for best performance, newer 8c/16t (Ryzen) CPUs are suggested and use [this guide](https://forum.dero.io/t/dero-node-setup/1774) instead, but for the sake of low cost and easy (but still secure and effective setup for home access to the Dero network), these examples and steps (while a bit rough) have worked for me on multiple machines, for now.
 
 2. Boot into preconfigured USB stick
 3. On live booted Linux Mint desktop, launch "Install Linux Mint"
