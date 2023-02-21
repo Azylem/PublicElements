@@ -67,10 +67,14 @@
 3. `cd Netrunner`
 4. `go mod tidy`
 5. `go build .`
-6. `./netrunner` to launch Netrunner
-7. In CFG menu, select "fast" mode for low data use and fast bootstrap (~1 hour sync time). OR, use "full" mode for full node (multiple days sync time) then click RTN
-8. Click RUN to start syncing!
-9. After Netrunner finishes syncing, you can point any wallet or dApp at  your node, over LAN by using the "Endpoint" IP:PORT
+6. Once built, a binary named "Netrunner" or "netrunner" will appear in the Netrunner folder. Copy this binary, then paste it to any directory you want to store your node data in (Example: in a new folder called "Dero" on desktop).
+
+![screenshot](NetrunnerIcon.png)
+
+7. Open new terminal in your chosen directory (right click and select "Open in Terminal) use `./netrunner` or `./Netrunner` to launch Netrunner (you can also just double click the binary to launch it without the terminal displaying)
+8. In CFG menu, select "fast" mode for low data use and fast bootstrap (~1 hour sync time). OR, use "full" mode for full node (multiple days sync time) then click RTN
+9. Click RUN to start syncing!
+10. After Netrunner finishes syncing, you can point any wallet or dApp at  your node, over LAN by using the "Endpoint" IP:PORT
 
 ![screenshot](NetrunnerScreenshot.png)
 
