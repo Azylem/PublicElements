@@ -70,7 +70,7 @@
 6. `./netrunner` to launch Netrunner! 
 7. Use "fast" mode for low data use and fast bootstrap (~1 hour sync time). OR, use "full" mode for full node (multiple days sync time)
 
-# Optional Step 4
+# Step 4 (optional)
 **Headless operation (no monitor/mouse/keyboard**
 1. Install Displayport dummy plug into Displayport socket in back of machine
 2. Install RealVNC server
