@@ -15,6 +15,8 @@ These are what I set up in people's houses :), so they can access Dero easily an
 
 	NOTE: for best performance, newer 8c/16t (Ryzen) CPUs are suggested and use [this guide](https://forum.dero.io/t/dero-node-setup/1774) instead, but for the sake of low cost and easy (but still secure and effective setup for home access to the Dero network), these examples and steps (while a bit rough) have worked for me on multiple machines, for now.
 
+	NOTE 2: Node functionality only, I do not use the built in miner with Netrunner on these boxes, as they are not ideal for heat dissipation (but it's your node, you can do whatever you want!)
+
 2. Boot into preconfigured USB stick (plug the USB stick into the node box, power it on)
 3. On live booted Linux Mint desktop, launch "Install Linux Mint"
 ![screenshot](InstallLinuxMint.png)
