@@ -1,4 +1,4 @@
-# Azylem's easy home (not public) dedicated personal Dero node guide, using Netrunner, Linux Mint and low cost hardware with a 500GB SSD
+# Azylem's easy home (not public) dedicated personal Dero node guide, using Netrunner, Linux Mint and low cost used hardware
 These are what I set up in people's houses :), so they can access Dero easily and privately in their homes. These machines can also be used for other light duty things while in operation, like as a media center.
 
 # Step 1
