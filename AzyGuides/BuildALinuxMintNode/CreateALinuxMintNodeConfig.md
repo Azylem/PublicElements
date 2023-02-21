@@ -70,6 +70,7 @@
 6. `./netrunner` to launch Netrunner! 
 7. Use "fast" mode for low data use and fast bootstrap (~1 hour sync time). OR, use "full" mode for full node (multiple days sync time)
 8. After Netrunner finishes syncing, you can point any wallet or dApp at  your node, over LAN by using the "Endpoint" IP:PORT
+
 ![screenshot](NetrunnerScreenshot.png)
 
 # Step 4 (optional)
