@@ -71,6 +71,7 @@
 7. Use "fast" mode for low data use and fast bootstrap (~1 hour sync time). OR, use "full" mode for full node (multiple days sync time)
 
 # Optional Step 4
+**Headless operation (no monitor/mouse/keyboard**
 1. Install Displayport dummy plug into Displayport socket in back of machine
 2. Install RealVNC server
 3. Access your node remotely from any machine using RealVNC viewer
