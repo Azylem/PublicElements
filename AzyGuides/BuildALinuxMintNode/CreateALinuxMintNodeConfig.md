@@ -31,7 +31,7 @@ These are what I set up in people's houses :), so they can access Dero easily an
 
 	* 1x ext4 partition (30000 MB), mount point "/", select "primary" (install Mint to this partition)
 
-	* 1x xfs partition (maximum remaining space), at mount point "/home", select "logical"
+	* 1x xfs partition (maximum remaining space), at mount point "/home", select "logical" (this puts all data on desktop in xfs partition)
 
 8. Carry on with remaining installation steps, as desired, following the displayed instructions, then boot into the new OS with USB stick removed
 
