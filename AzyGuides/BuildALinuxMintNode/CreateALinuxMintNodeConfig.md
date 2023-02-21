@@ -36,7 +36,7 @@ These are what I set up in people's houses :), so they can access Dero easily an
 8. Carry on with remaining installation steps, as desired, following the displayed instructions, then boot into the new OS with USB stick removed
 
 # Step 2
-**Setup required machine config basics**
+**Setup required golang build basics and p2p optimizations**
 1. Right click on desktop, select "Open in Terminal" then enter the below commands in order
 2. `wget https://golang.google.cn/dl/go1.20.1.linux-amd64.tar.gz`
 3. `sudo tar -xvf go1.20.1.linux-amd64.tar.gz`
