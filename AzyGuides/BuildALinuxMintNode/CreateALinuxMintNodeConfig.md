@@ -73,9 +73,9 @@
 # Step 4 (optional)
 **Headless operation (no monitor/mouse/keyboard**
 1. Install Displayport dummy plug into Displayport socket in back of machine
-2. Install RealVNC server
+2. Install [RealVNC server](https://www.realvnc.com/en/connect/download/vnc/)
 3. Launch RealVNC server from LM menu, configure as desired
-4. Access your node remotely from any machine using RealVNC viewer
+4. Install/access your node remotely from any machine using [RealVNC viewer](https://www.realvnc.com/en/connect/download/viewer/)
 5. Unplug your keyboard, monitor and mouse!
 
 # Bookmark these URLs in Firefox, for additional information
