@@ -54,7 +54,7 @@
 12. `sudo apt install chrony`
 13. `sudo echo "net.core.rmem_default=2097152" >> /etc/sysctl.conf; sudo sysctl -p`
 14. `echo "ulimit -n 48000" >> ~/.bashrc ; echo "ulimit -n 48000" >> ~/.bash_profile ; ulimit -n 48000 ; source ~/.bashrc`
-15. Restart the machine
+15. Restart the machine, log back in
 16. Right click on desktop, select "Open in Terminal"
 17. Verify chrony is running with `chronyc tracking`
 18. Verify go environment is good with `go version`
