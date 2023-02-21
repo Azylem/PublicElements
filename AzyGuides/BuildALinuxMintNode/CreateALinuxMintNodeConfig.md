@@ -90,6 +90,8 @@ These are what I set up in people's houses :), so they can access Dero easily an
 4. On any OTHER machine (Can be Windows/Mac/Linux/Mobile), install [RealVNC viewer](https://www.realvnc.com/en/connect/download/viewer/) to access your node UI remotely!
 5. Unplug your keyboard, monitor and mouse!
 
+NOTE: RealVNC is not open source, there are other alternatives if you prefer.
+
 # Bookmark these URLs in Firefox, for additional information
 https://forum.dero.io/t/dero-node-setup/1774 (More advanced node config guide)
 
