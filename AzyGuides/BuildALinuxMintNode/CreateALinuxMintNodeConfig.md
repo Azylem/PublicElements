@@ -10,6 +10,7 @@ These are what I set up in people's houses :), so they can access Dero easily an
 	* Example low cost node hardware for around $200 on eBay (any box configured with 1x 500GB SSD, 8GB Ram, 4c/8t CPU: i7 4770 or i7 4790)
 		* HP Z230 SFF
 		* HP EliteDesk SFF
+![screenshot](hpboxes.png)
 	* OPTIONAL: Virtual Display Adapter/Displayport Dummy Plug around $8 on eBay (for headless operation with VNC or other SSH)
 
 	NOTE: for best performance, newer 8c/16t (Ryzen) CPUs are suggested and use [this guide](https://forum.dero.io/t/dero-node-setup/1774) instead, but for the sake of low cost and easy (but still secure and effective setup for home access to the Dero network), these examples and steps (while a bit rough) have worked for me on multiple machines, for now.
