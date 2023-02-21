@@ -25,7 +25,7 @@
 
 	* 1x EFI partition (1000 MB)
 
-	* 1x ext4 partition (30000 MB), mount point "/", select "primary"
+	* 1x ext4 partition (30000 MB), mount point "/", select "primary" (install Mint to this partition)
 
 	* 1x xfs partition (maximum remaining space), at mount point "/home", select "logical"
 
