@@ -7,7 +7,7 @@ These are what I set up in people's houses :), so they can access Dero easily an
 	* Already configured Linux Mint boot USB stick with Etcher.
 	[Further information](https://linuxmint-installation-guide.readthedocs.io/en/latest/burn.html)
 
-	* Example low cost node hardware for around $200 on eBay (any box configured with 1x 500GB SSD (NOT AN HDD, SSD only), 8GB Ram, 4c/8t CPU: i7 4770 or i7 4790 only for this build)
+	* Example low cost node hardware for around $200 on eBay (any box configured with 1x 500GB SSD (NOT AN HDD, SSD only), 8GB Ram, 4c/8t CPU: i7 4770 or i7 4790 only for this build price range)
 		* HP Z230 SFF
 		* HP EliteDesk SFF
 ![screenshot](hpboxes.png)
