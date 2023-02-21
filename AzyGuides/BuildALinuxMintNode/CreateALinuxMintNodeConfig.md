@@ -9,6 +9,7 @@
 	* Example low cost node hardware for around $200 on eBay (any box configured with 1x 500GB SSD, 8GB Ram, 4c/8t CPU: i7 4770 or i7 4790)
 		* HP Z230 SFF
 		* HP EliteDesk SFF
+	* OPTIONAL: Virtual Display Adapter, Displayport Dummy Plug (for headless operation with VNC or other SSH)
 
 	NOTE: for best performance, newer 8c/16t (Ryzen) CPUs are suggested and use [this guide](https://forum.dero.io/t/dero-node-setup/1774) instead, but for the sake of low cost and easy (but still secure and effective setup), these examples and steps (while a bit rough) have worked for me on multiple machines, for now.
 
@@ -68,6 +69,11 @@
 5. `go build .`
 6. `./netrunner` to launch Netrunner! 
 7. Use "fast" mode for low data use and fast bootstrap (~1 hour sync time). OR, use "full" mode for full node (multiple days sync time)
+
+# Optional Step 4
+1. Install Displayport dummy plug into Displayport socket in back of machine
+2. Install RealVNC server
+3. Access your node remotely from any machine using RealVNC viewer
 
 # Bookmark these URLs in Firefox, for additional information
 https://forum.dero.io/t/dero-node-setup/1774 (More advanced node config guide)
