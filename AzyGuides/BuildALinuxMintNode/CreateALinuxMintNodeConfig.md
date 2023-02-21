@@ -74,7 +74,9 @@
 **Headless operation (no monitor/mouse/keyboard**
 1. Install Displayport dummy plug into Displayport socket in back of machine
 2. Install RealVNC server
-3. Access your node remotely from any machine using RealVNC viewer
+3. Launch RealVNC server from LM menu, configure as desired
+4. Access your node remotely from any machine using RealVNC viewer
+5. Unplug your keyboard, monitor and mouse!
 
 # Bookmark these URLs in Firefox, for additional information
 https://forum.dero.io/t/dero-node-setup/1774 (More advanced node config guide)
