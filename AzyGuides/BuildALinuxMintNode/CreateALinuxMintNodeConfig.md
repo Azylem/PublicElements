@@ -82,7 +82,7 @@ These are what I set up in people's houses :), so they can access Dero easily an
 
 ![screenshot](NetrunnerScreenshot.png)
 
-NOTE: Use port 10100 for pointing miners at it. For wallets and dApps, use port 10102 as displayed in Netrunner UI.
+NOTE: Use port 10100 for pointing miners at it, also set the "integrator address" to your desired wallet address in CFG menu before mining. For wallets and dApps, use port 10102 as displayed in Netrunner UI.
 
 NOTE 2: Any time there is a Dero network upgrade/update, delete the "Netrunner" folder (leave the "mainnet" folder intact), then repeat Step 3 to build a fresh Netrunner binary again that includes all of the new updates for you, then you can replace the Netrunner binary in your Dero folder with the new one, without needing to resync from scratch.
 
