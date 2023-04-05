@@ -78,7 +78,7 @@ These are what I set up in people's houses :), so they can access Dero easily an
 7. Open new terminal in your chosen directory (right click inside it and select "Open in Terminal") use `./netrunner` or `./Netrunner` to launch Netrunner (you can also just double click the binary to launch it without the terminal displaying, if desired)
 8. In CFG menu, select "fast" mode for low data use to start and fast bootstrap (~1 hour sync time). OR, use "full" mode for full node (multiple days sync time) then click RTN
 9. Click RUN to start syncing!
-10. After Netrunner finishes syncing, you can point any wallet or dApp at  your node, over LAN by using the "Endpoint" IP:PORT
+10. After Netrunner finishes syncing, you can point any wallet, miner or dApp at  your node, over LAN by using the "Endpoint" IP:PORT
 
 ![screenshot](NetrunnerScreenshot.png)
 
