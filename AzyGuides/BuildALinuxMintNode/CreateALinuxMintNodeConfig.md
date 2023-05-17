@@ -54,15 +54,14 @@ These are what I set up in people's houses :), so they can access Dero easily an
 8. `sudo apt install git`
 9. `sudo apt-get update && sudo apt-get upgrade`
 10. `sudo apt-get install gcc libgl1-mesa-dev xorg-dev build-essential libc6`
-11. `sudo apt install ntpdate`
-12. `sudo apt install chrony`
-13. `sudo echo "net.core.rmem_default=2097152" >> /etc/sysctl.conf; sudo sysctl -p`
-14. `echo "ulimit -n 48000" >> ~/.bashrc ; echo "ulimit -n 48000" >> ~/.bash_profile ; ulimit -n 48000 ; source ~/.bashrc`
-15. Restart the machine, log back in
-16. Right click on desktop, select "Open in Terminal"
-17. Verify chrony is running with `chronyc tracking`
-18. Verify go environment is good with `go version`
-19. Close terminal
+11. `sudo apt install chrony`
+12. `sudo echo "net.core.rmem_default=2097152" >> /etc/sysctl.conf; sudo sysctl -p`
+13. `echo "ulimit -n 48000" >> ~/.bashrc ; echo "ulimit -n 48000" >> ~/.bash_profile ; ulimit -n 48000 ; source ~/.bashrc`
+14. Restart the machine, log back in
+15. Right click on desktop, select "Open in Terminal"
+16. Verify chrony is running with `chronyc tracking`
+17. Verify go environment is good with `go version`
+18. Close terminal
 
 # Step 3
 **Build Netrunner from source**
