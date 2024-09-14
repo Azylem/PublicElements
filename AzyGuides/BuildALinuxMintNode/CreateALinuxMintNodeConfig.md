@@ -38,7 +38,7 @@ These are what I set up in people's houses :), so they can access Dero easily an
 # Step 2
 **Set up required golang build basics and p2p optimizations**
 1. Right click on desktop, select "Open in Terminal" then enter the below commands in order
-2. `wget https://go.dev/dl/go1.20.4.linux-amd64.tar.gz`
+2. `wget https://go.dev/dl/go1.23.1.linux-amd64.tar.gz`
 3. `sudo tar -xvf go1.20.4.linux-amd64.tar.gz`
 4. `sudo mv go /usr/local`
 5. `sudo nano /etc/profile`
